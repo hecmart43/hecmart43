@@ -2,11 +2,13 @@
 
 Computer Science student focused on software engineering, data structures, and systems programming.
 
+## Technical Focus
+
 I am building structured implementations in:
 
-- C++ (data structures, OOP, memory management)
-- C (systems-level fundamentals, pointers, structs, file I/O)
-- Java (object-oriented programming and algorithm design)
+- **C++** (data structures, OOP, memory management)
+- **C** (systems-level fundamentals, pointers, structs, file I/O)
+- **Java** (object-oriented programming and algorithm design)
 
 ## Current Focus
 
@@ -20,6 +22,14 @@ I am building structured implementations in:
 - **Cpp-Data-Structures** – Object-oriented design and foundational data structure implementations  
 - **C-Programming** – Systems-level programming and memory-focused exercises  
 - **Java-OOP-Projects** – Structured Java implementations organized by concept  
+
+## Tools & Environment
+
+- GCC / G++
+- Java (Standard JDK)
+- Git & GitHub
+- Visual Studio Code
+- Windows / WSL2
 
 ## Goals
 
